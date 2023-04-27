@@ -1,0 +1,21 @@
+﻿Burada çok basit olarak iki sayının toplamını göstereceğiz..
+
+dolayısıyla ekrana 2 tane textbox koyacaaz.
+bir tane buton olacak
+sonucu ilk aşamada MessageBox kullanarak verecez
+prgramdan çıkış tusu da olsun..
+formun adı anlamlı bir şekilde formun üstünde gözüksün
+
+
+-- Sonucu bu sefer Messagebox yerine bir label comp. içinde 
+olacak şekilde veriniz.
+
+====
+
+4 işlem yapılacak(+,-,*,/)
+bu işlemler seçenekli olacak (yani burda combobox komponentini 
+kullanabiliriz...)
+bu komponentden seçilen seçeneğe göre işlemler yapılacak
+yine boşluk kontrollü yapıda sonuç yazılacak
+
+

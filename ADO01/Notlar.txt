@@ -1,0 +1,21 @@
+﻿Customers ile uğraştık
+
+Benzer şekilde db de bulunan Products 
+tablosu üzerinde işlemler yapmak için bir form geliştirilecek..
+
+Şimdi elimizde 2 form var..Customer - Product için
+
+Bunları tek bir ana form da birleştirelim
+
+Ana form tüm ekranı kaplasın
+
+diğer formlara bu ekran üzerinden menü yoluyla erişilsin..
+
+Products formunda sekmeli (tabbed) yardımıyla, bir sekmede bir grid olacak belirlenen bazı tablo alanları(Ürün adı,kategorisi,tedarikçisi) için bir sorgulama kısmı olacak..sorgulamalar için uygun komponentler kullanılarak(örnek kategori ve tedarikçi için combobox yani elle giriş yok bu iki bilgi için) sorgu sonucu ekrandaki datagridde gösterilecek. datagridde seçilen kayıt ayrı bir sekmede detayı gösterilecek. yeni veri kayıt, güncelleme, silme işlemleri yapılacak
+
+
+* Products ekranı ilk geldiğinde Products Datagrid dolu olarak gelecek
+(Product Name,CategoryName,Suppliers CompanyName,UnitsInStock,Discontinued ) bilgileriyle..
+
+
+

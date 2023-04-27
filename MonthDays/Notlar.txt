@@ -1,0 +1,6 @@
+﻿Yıl ve ay bilgisini aldıktan sonra bir listbox içinde
+şeçilen ayın tüm günlerini gün adlarıyla listeyen bir programcık.
+
+
+
+

@@ -1,0 +1,7 @@
+﻿Ekranda bulunan 1. checklistbox dan seçilen 
+bir değeri listBox içinde gösterme.
+
+Eğer listboxda seçtiğim eleman zaten varsa tekrar ekleme yapmasın....
+
+
+

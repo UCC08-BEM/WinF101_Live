@@ -1,0 +1,18 @@
+﻿-- Listbox da yani içeriğinde listeleme yapmak
+
+Combobox daki gibi bir yapı düşünülebilir.
+
+form üzerinde bir adet label,button,listbox olcak
+
+butona basıldığında listbox içeriği (elemanları) kodlama yapılarak 
+doldurulacak
+(1 den 20 ye kadar sayılar)
+
+Butona basıldığında İçerik şöyle olacak..
+listboxın içeriği(elemanları)
+1.sayı
+2.sayı
+....
+20.sayı
+
+gibi gözüksün

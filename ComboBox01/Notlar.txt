@@ -1,0 +1,21 @@
+﻿Yapacağımız olay 
+
+Combobox kullaacaaz
+
+form üzerinde bir adet label,button,combobox olcak
+
+butona basıldığında combobox içeriği (elemanları) kodlama yapılarak 
+doldurulacak
+(1 den 20 ye kadar sayılar)
+
+Butona basıldığında İçerik şöyle olacak..
+comboxın içeriği(elemanları)
+1.sayı
+2.sayı
+....
+20.sayı
+
+gibi gözüksün
+
+
+
